@@ -15,6 +15,8 @@ Before running the London Weather App, ensure that you have the following instal
 
 3. Run the program by executing the following command:
 
+4. `Py weather_app.py`
+
 ## How to Use
 1. Upon running the program, you will be presented with the following menu:
 
