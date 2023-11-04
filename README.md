@@ -1,4 +1,4 @@
-# London Weather App
+# London Weather App Project
 
 ## Overview
 London Weather App is a command-line program written in Python that allows users to get hourly weather forecasts for the city of London. It uses the OpenWeatherMap API to fetch weather data and provides the user with three options: getting weather details, wind speed, and pressure for a specific date.
